@@ -2,7 +2,7 @@
 
 **Question on :** [Leetcode](https://leetcode.com/problems/implement-rand10-using-rand7/)
 
-**Solution on :** [My Git](https://github.com/AmanSilawat/Leetcode-Solutions/tree/470.%20Implement%20Rand10()%20Using%20Rand7()/script.js)
+**Solution on :** [My Git](https://github.com/AmanSilawat/Leetcode-Solutions/tree/master/Medium/Random/470.%20Implement%20Rand10()%20Using%20Rand7()/script.js)
 
 Given the API rand7() that generates a uniform random integer in the range [1, 7], write a function rand10() that generates a uniform random integer in the range [1, 10]. You can only call the API rand7(), and you shouldn't call any other API. Please do not use a language's built-in random API.
 

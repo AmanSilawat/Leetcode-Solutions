@@ -11,7 +11,7 @@
 
 **Question on :** [Leetcode](https://leetcode.com/problems/implement-rand10-using-rand7/)
 
-**Solution on :** [My Git](https://github.com/AmanSilawat/Leetcode-Solutions/tree/470.%20Implement%20Rand10()%20Using%20Rand7()/)
+**Solution on :** [My Git](https://github.com/AmanSilawat/Leetcode-Solutions/tree/master/Medium/Random/470.%20Implement%20Rand10()%20Using%20Rand7())
 
 ----
 ## 905. Sort Array By Parity
